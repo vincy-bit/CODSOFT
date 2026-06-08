@@ -28,22 +28,22 @@ A game where the user plays Rock, Paper, Scissors against the computer.
 
 ### Task 1
 ```bash
-python Task1_TodoList.py
+python TodoList.py
 ```
 
 ### Task 2
 ```bash
-python Task2_Calculator.py
+python Calculator.py
 ```
 
 ### Task 3
 ```bash
-python Task3_PasswordGenerator.py
+python PasswordGenerator.py
 ```
 
 ### Task 4
 ```bash
-python Task4_RockPaperScissors.py
+python RockPaperScissors.py
 ```
 
 ## Author
