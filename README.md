@@ -1,10 +1,8 @@
-# CODSOFT Python Internship
+# Python
 
 ## Name
 Vincy Bula
 
-## Internship
-CODSOFT Python Programming Internship
 
 ## Tasks Completed
 
